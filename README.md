@@ -2,10 +2,10 @@
 📅 프로젝트 기간 : 2023-03-02 ~ 2023-06-09 (3개월) 
 
 ## Team
-<!-- 😀 나용준 : [https://github.com/GauelF](https://github.com/GauelF)</br>
+😀 나용준 : [https://github.com/NaGoood](https://github.com/NaGoood)</br>
 😀 김진영 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
 😀 김민건 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)</br>
-😀 양호신 : [https://github.com/oddnine](https://github.com/oddnine)</br> -->
+😀 양호신 : [https://github.com/oddnine](https://github.com/oddnine)</br>
 
 ## Tech Stack
 
@@ -19,7 +19,7 @@
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
