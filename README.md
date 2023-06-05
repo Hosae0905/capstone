@@ -1,6 +1,11 @@
 # 3D 이미지를 활용한 식당 예약 웹 앱
 📅 프로젝트 기간 : 2023-03-02 ~ 2023-06-09 (3개월) 
 
+## Description
+* ㅁ
+* ㅠ
+* ㅊ
+
 ## Team
 😀 나용준 : [https://github.com/NaGoood](https://github.com/NaGoood)</br>
 😀 김진영 : [https://github.com/jinzero0619](https://github.com/jinzero0619)</br>
@@ -28,6 +33,11 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-462679?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 
+## System Aricitecture
+
+* 서비스 구조
+* ERD
+
 ## Application
 <!-- ![슬라이드1](https://user-images.githubusercontent.com/106054507/183580054-940b6535-b9e6-4d0b-a48a-a8c5bc83cc6e.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/106054507/183580057-cee3e4c5-61ab-420d-9aa9-0efaa7bee82e.JPG)
@@ -40,17 +50,4 @@
 ![슬라이드9](https://user-images.githubusercontent.com/106054507/183580129-13504606-914f-486d-9c48-495bfa824b50.JPG) -->
 
 ## Document
-
-<!-- 📄 안드로이드 구글맵 SDK 추가 : [https://developers.google.com/maps/documentation/android-sdk/start?hl=ko](https://developers.google.com/maps/documentation/android-sdk/start?hl=ko)</br>
-📄 안드로이드 프로젝트 Firebase 추가 : [https://firebase.google.com/docs/android/setup?hl=ko](https://firebase.google.com/docs/android/setup?hl=ko)</br>
-📄 파이어 베이스 데이터 관리 : [https://firebase.google.com/docs/database/admin/save-data?hl=ko](https://firebase.google.com/docs/database/admin/save-data?hl=ko)</br>
-📄 파이어베이스 스토리지 파일 업로드 : [https://firebase.google.com/docs/storage/android/upload-files?hl=ko](https://firebase.google.com/docs/storage/android/upload-files?hl=ko)</br>
-📄 파이어베이스 응용 참고 영상 : [https://www.youtube.com/watch?v=ENK4ONrRm8s](https://www.youtube.com/watch?v=ENK4ONrRm8s&list=PLam6bY5NszYOhXkY7jOS4EQAKcQwkXrp4)</br>
-📄 코사인 유사도 챗봇 : [https://www.youtube.com/watch?v=VVArHrsxrYU](https://www.youtube.com/watch?v=VVArHrsxrYU)</br>
-📄 자바 SPRING 서버 구축 : [https://www.inflearn.com/roadmaps/373](https://www.inflearn.com/roadmaps/373)</br>
-📄 MySql (JPA 연동) : [https://dev-coco.tistory.com/85](https://dev-coco.tistory.com/85)</br>
-📄 파이썬 Flask : [https://scribblinganything.tistory.com/119](https://scribblinganything.tistory.com/119)</br>
-📄 AWS EC2 배포 : [https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html)</br>
-📄 AWS Elastic Beanstalk 파이썬 Flask 배포 : [https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html) -->
-
 📄 forxnews : [https://scribblinganything.tistory.com/119](https://github.com/ruichen199801/forxnews)</br>
