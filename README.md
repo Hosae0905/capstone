@@ -41,26 +41,17 @@
 
 ## System Aricitecture
 
-* 서비스 구조
+* 서비스 구조</br>
 * ERD
+![ERD](https://github.com/NaGoood/capstone/assets/80888180/aa0759d8-2a62-48cb-9a93-5b0b52f9e15b)
 
 ## Application
-<!-- ![슬라이드1](https://user-images.githubusercontent.com/106054507/183580054-940b6535-b9e6-4d0b-a48a-a8c5bc83cc6e.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/106054507/183580057-cee3e4c5-61ab-420d-9aa9-0efaa7bee82e.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/106054507/183580062-74536b76-8be4-453d-b4fa-a0b4d4211de4.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/106054507/183580103-3c4e8871-f0a1-4eca-a1f7-65dbedb47f16.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/106054507/183580106-f24cf928-e2e5-4be0-969e-c652f8d6f1c8.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/106054507/183580115-3275d806-7cc5-4016-b22f-f23ee3465991.JPG)
-![슬라이드7](https://user-images.githubusercontent.com/106054507/183580118-661cea5a-f3c0-40d9-a154-75776a17f94e.JPG)
-![슬라이드8](https://user-images.githubusercontent.com/106054507/183580126-df2a6486-71dc-4158-92a2-8fe763099200.JPG)
-![슬라이드9](https://user-images.githubusercontent.com/106054507/183580129-13504606-914f-486d-9c48-495bfa824b50.JPG) -->
-
 
 * 메인화면</br>
 ![메인화면](https://github.com/NaGoood/capstone/assets/80888180/a94c6add-82ed-4f05-9402-bb308447716d)
 
 * 식당리스트 화면</br>
-![식당목록](https://github.com/NaGoood/capstone/assets/80888180/002a7bd4-11b6-496c-a290-30e21e555e91)
+![식당 리스트](https://github.com/NaGoood/capstone/assets/80888180/80a154ea-6fa7-47d5-8f94-8dad1364a1ca)
 ![식당선택](https://github.com/NaGoood/capstone/assets/80888180/786a7ccf-4629-47f2-9f67-d39d7e6a9e4c)</br>
 
 * 리뷰 및 메뉴 확인</br>
