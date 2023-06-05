@@ -49,7 +49,26 @@
 ![슬라이드8](https://user-images.githubusercontent.com/106054507/183580126-df2a6486-71dc-4158-92a2-8fe763099200.JPG)
 ![슬라이드9](https://user-images.githubusercontent.com/106054507/183580129-13504606-914f-486d-9c48-495bfa824b50.JPG) -->
 
-![image](https://github.com/NaGoood/capstone/assets/80888180/a94c6add-82ed-4f05-9402-bb308447716d)
+
+* 메인화면</br>
+![메인화면](https://github.com/NaGoood/capstone/assets/80888180/a94c6add-82ed-4f05-9402-bb308447716d)
+
+* 식당리스트 화면</br>
+![식당목록](https://github.com/NaGoood/capstone/assets/80888180/002a7bd4-11b6-496c-a290-30e21e555e91)
+![식당선택](https://github.com/NaGoood/capstone/assets/80888180/786a7ccf-4629-47f2-9f67-d39d7e6a9e4c)</br>
+
+* 리뷰 및 메뉴 확인</br>
+![리뷰확인](https://github.com/NaGoood/capstone/assets/80888180/feed38a1-92c6-4198-9cf7-3e7c46bce2ec)
+![메뉴확인](https://github.com/NaGoood/capstone/assets/80888180/f13da672-5d1c-437c-9a2b-5b2164507021)</br>
+
+* 예약화면</br>
+![예약하기1](https://github.com/NaGoood/capstone/assets/80888180/a9aafde6-9f44-4614-bf16-637fa89a299f)
+![예약하기2](https://github.com/NaGoood/capstone/assets/80888180/883e179f-0fe7-44ef-98fb-450a9d91646e)
+![예약내역확인](https://github.com/NaGoood/capstone/assets/80888180/dfc7c950-1d33-495d-8178-f1b37cdd2713)</br>
+
+* 사장님화면</br>
+![댓글](https://github.com/NaGoood/capstone/assets/80888180/5d0218a0-e810-4a20-944d-89f93105be9d)
+![예약리스트](https://github.com/NaGoood/capstone/assets/80888180/04078538-416d-423d-9fc4-c37ecc6c0e2d)</br>
 
 ## Document
 📄 forxnews : [https://scribblinganything.tistory.com/119](https://github.com/ruichen199801/forxnews)</br>
