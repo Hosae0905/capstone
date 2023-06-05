@@ -1,4 +1,4 @@
-# 3D 이미지를 활용한 식당 예약 웹 앱
+# 3D 이미지를 활용한 식당 예약 웹 앱(Table Book)
 📅 프로젝트 기간 : 2023-03-02 ~ 2023-06-09 (3개월) 
 
 ## Description
@@ -48,6 +48,8 @@
 ![슬라이드7](https://user-images.githubusercontent.com/106054507/183580118-661cea5a-f3c0-40d9-a154-75776a17f94e.JPG)
 ![슬라이드8](https://user-images.githubusercontent.com/106054507/183580126-df2a6486-71dc-4158-92a2-8fe763099200.JPG)
 ![슬라이드9](https://user-images.githubusercontent.com/106054507/183580129-13504606-914f-486d-9c48-495bfa824b50.JPG) -->
+
+![image](https://github.com/NaGoood/capstone/assets/80888180/a94c6add-82ed-4f05-9402-bb308447716d)
 
 ## Document
 📄 forxnews : [https://scribblinganything.tistory.com/119](https://github.com/ruichen199801/forxnews)</br>
