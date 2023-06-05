@@ -41,9 +41,10 @@
 
 ## System Aricitecture
 
-* 서비스 구조</br>
+* 서비스 구조
+![Architecture](https://github.com/NaGoood/capstone/assets/80888180/9b5f87a9-01db-4763-af61-5f0a5ee70855)</br>
 * ERD
-![ERD](https://github.com/NaGoood/capstone/assets/80888180/aa0759d8-2a62-48cb-9a93-5b0b52f9e15b)
+![ERD](https://github.com/NaGoood/capstone/assets/80888180/aa0759d8-2a62-48cb-9a93-5b0b52f9e15b)</br>
 
 ## Application
 
