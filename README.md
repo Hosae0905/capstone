@@ -19,7 +19,7 @@
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -52,3 +52,5 @@
 📄 파이썬 Flask : [https://scribblinganything.tistory.com/119](https://scribblinganything.tistory.com/119)</br>
 📄 AWS EC2 배포 : [https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html)</br>
 📄 AWS Elastic Beanstalk 파이썬 Flask 배포 : [https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/create-deploy-python-flask.html) -->
+
+📄 forxnews : [https://scribblinganything.tistory.com/119](https://github.com/ruichen199801/forxnews)</br>
