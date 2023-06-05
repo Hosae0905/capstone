@@ -3,9 +3,9 @@
 
 ## Team
 😀 나용준 : [https://github.com/NaGoood](https://github.com/NaGoood)</br>
-😀 김진영 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
-😀 김민건 : [https://github.com/woohyeonjoe](https://github.com/woohyeonjoe)</br>
-😀 양호신 : [https://github.com/oddnine](https://github.com/oddnine)</br>
+😀 김진영 : [https://github.com/jinzero0619](https://github.com/jinzero0619)</br>
+😀 김민건 : [https://github.com/mine702](https://github.com/mine702)</br>
+😀 양호신 : [https://github.com/Hosae0905](https://github.com/Hosae0905)</br>
 
 ## Tech Stack
 
